@@ -18,7 +18,7 @@ Default: 0, Tight: -0.5px, Wide: 0.75
 - Tints: #fdf2e9, #fae5d3, #eb984e
 - Shades: #cf711f, #45260a
 - Accents:
-- Grays: #555, #333, #888, #6f6f6f
+- Grays: #555, #333, #888, #6f6f6f, #767676
 
 
 --- 05 SHADOWS
@@ -86,6 +86,10 @@ body {
 
 .grid--4-cols {
   grid-template-columns: repeat(4, 1fr);
+}
+
+.grid--5-cols {
+  grid-template-columns: repeat(5, 1fr);
 }
 
 .grid--center-v {
