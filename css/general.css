@@ -7,7 +7,7 @@
 Default: 400, Medium: 500, Semi-bold: 600, Bold: 700
 
 - Line heights:
-Default: 1, Small: 1.05, Medium: 1.2, Paragraph default: 1.6
+Default: 1, Small: 1.05, Medium: 1.2, Paragraph default: 1.6, Large: 1.8
 
 - Letter spacing:
 Default: 0, Tight: -0.5px, Wide: 0.75
@@ -218,6 +218,7 @@ body {
   display: flex;
   align-items: center;
   gap: 1.6rem;
+  line-height: 1.2;
 }
 
 .list-icon {
