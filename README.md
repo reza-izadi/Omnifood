@@ -55,4 +55,4 @@ Omnifood/
 
 ## 📄 License
 
-This project was built as part of a web development course. All content and design belong to their respective owners.
+This project is licensed under the MIT License.
